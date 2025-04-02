@@ -19,4 +19,4 @@ export default abstract class Boleto {
     public calcularMulta(): number {
         return this.valor * this.multa;
     }
-}
+} 
